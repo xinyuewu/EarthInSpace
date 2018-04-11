@@ -1,2 +1,4 @@
 
-.vs/EarthInSpace/v14/.suo
+.vs/
+obj/
+Temp/
